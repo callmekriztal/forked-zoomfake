@@ -8,10 +8,10 @@
 ## Basic Details
 ### Team Name: ctrl+alt+Salad
 
-###Project Link :-  vermillion-treacle-559a38.netlify.app
+[Project Link](vermillion-treacle-559a38.netlify.app)
 
 ### Team Members
-- Member 1: Christy Dominic Cyril] - RIT KOTTAYAM
+- Member 1: Christy Dominic Cyril- RIT KOTTAYAM
 - Member 2: Arun Mathews- RIT KOTTAYAM
 
 ### Project Description
@@ -30,7 +30,7 @@ In a world where everyone just wants to nod politely and pretend to listen, ther
 ### Technologies/Components Used
 For Software:
 - TypeScript,JavaScript,HTML5
-- [vite,React,Tailwind css
+- vite,React,Tailwind css
 - Axxios,clsx,zod,PotstCSS
 - Node.js
 
