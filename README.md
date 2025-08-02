@@ -70,11 +70,6 @@ For Software:
 ![Workflow](C:\Users\crizt\OneDrive\Pictures\Screenshots\Screenshot 2025-08-02 064421.png)
 *This the folder structure and files that are the part of workflow*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
 ## Team Contributions
 - [Arun Mathews]: [UI and Front End]
 - [Christy Dominic Cyril]: [Backend and deployment]
