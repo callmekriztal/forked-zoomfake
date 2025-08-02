@@ -8,7 +8,7 @@
 ## Basic Details
 ### Team Name: ctrl+alt+Salad
 
-[Project Link](vermillion-treacle-559a38.netlify.app)
+[visit our wesite](vermillion-treacle-559a38.netlify.app)
 
 ### Team Members
 - Member 1: Christy Dominic Cyril- RIT KOTTAYAM
@@ -58,7 +58,7 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-!Screenshot1(C:\Users\crizt\OneDrive\Pictures\Screenshots\Screenshot 2025-08-02 063532.png)
+![Screenshot1](C:\Users\crizt\OneDrive\Pictures\Screenshots\Screenshot 2025-08-02 063532.png)
 *This is the  login page fake zoom*
 
 ![Screenshot2](C:\Users\crizt\OneDrive\Pictures\Screenshots\Screenshot 2025-08-02 063532.png)
