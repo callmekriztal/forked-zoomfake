@@ -2,12 +2,13 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# ZOOMFAKE 🎯
 
 
 ## Basic Details
 ### Team Name: ctrl+alt+Salad
 
+###Project Link :-  vermillion-treacle-559a38.netlify.app
 
 ### Team Members
 - Member 1: Christy Dominic Cyril] - RIT KOTTAYAM
