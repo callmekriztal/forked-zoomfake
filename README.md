@@ -8,7 +8,7 @@
 ## Basic Details
 ### Team Name: ctrl+alt+Salad
 
-[visit our wesite](vermillion-treacle-559a38.netlify.app)
+[visit our wesite](https://vermillion-treacle-559a38.netlify.app)
 
 ### Team Members
 - Member 1: Christy Dominic Cyril- RIT KOTTAYAM
