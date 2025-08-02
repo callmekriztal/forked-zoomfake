@@ -6,43 +6,43 @@
 
 
 ## Basic Details
-### Team Name: [ctrl+alt+Salad]
+### Team Name: ctrl+alt+Salad
 
 
 ### Team Members
-- Member 2: [Christy Dominic Cyril] - [RIT KOTTAYAM]
-- Member 3: [Arun Mathews]- [RIT KOTTAYAM]
+- Member 1: Christy Dominic Cyril] - RIT KOTTAYAM
+- Member 2: Arun Mathews- RIT KOTTAYAM
 
 ### Project Description
-[A fake zoom app sends glitches the screen according to the sound input.It sends urgent poiintless  messages to leave the meeting.]
+A fake zoom app sends glitches the screen according to the sound input.It sends urgent poiintless  messages to leave the meeting.
 
 ### The Problem (that doesn't exist)
-[Meetings are too stable, too productive, and disturbingly sane.
-In a world where everyone just wants to nod politely and pretend to listen, there’s no chaos. No mystery. No panic attacks triggered by phantom error messages. We decided that’s unacceptable.]
+Meetings are too stable, too productive, and disturbingly sane.
+In a world where everyone just wants to nod politely and pretend to listen, there’s no chaos. No mystery. No panic attacks triggered by phantom error messages. We decided that’s unacceptable.
 
 ### The Solution (that nobody asked for)
-[🎥 It starts like any normal meeting — your webcam turns on, your mic is ready...
+🎥 It starts like any normal meeting — your webcam turns on, your mic is ready...
 🔊 But say something even slightly loud, and BAM — the screen glitches like it just saw a ghost.
-💬 Every 5 seconds, it spits out totally serious-looking yet completely made-up system errors:]
+💬 Every 5 seconds, it spits out totally serious-looking yet completely made-up system errors:
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [TypeScript,JavaScripts,HTML5,Tailwind css]
-- [vite]
-- [Axxios,clsx,zod,PotstCSS]
-- [Node.js]
+- TypeScript,JavaScript,HTML5
+- [vite,React,Tailwind css
+- Axxios,clsx,zod,PotstCSS
+- Node.js
 
 ### Implementation
 For Software:
 # Installation
-[#Clone the repository git clone https://github.com//callmekriztal/forked-zoomfake.git
+#Clone the repository git clone https://github.com//callmekriztal/forked-zoomfake.git
 cd zoomfake
 #install dependencies
-npm install]
+npm install
 
 # Run
-[npv erun dev
+npv erun dev
 
 cd client
 npm install
@@ -51,13 +51,13 @@ npm run dev
 cd ../server
 npm install
 npm run dev
-]
+
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](C:\Users\crizt\OneDrive\Pictures\Screenshots\Screenshot 2025-08-02 063532.png)
+!Screenshot1(C:\Users\crizt\OneDrive\Pictures\Screenshots\Screenshot 2025-08-02 063532.png)
 *This is the  login page fake zoom*
 
 ![Screenshot2](C:\Users\crizt\OneDrive\Pictures\Screenshots\Screenshot 2025-08-02 063532.png)
